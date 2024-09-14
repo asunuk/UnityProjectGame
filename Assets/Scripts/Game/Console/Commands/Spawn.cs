@@ -19,7 +19,7 @@ namespace Game.Console.Commands
 
 		public override bool CommandExecutor(ICommandSender commandSender, string[] commandArgs)
 		{
-			if(commandSender is Player player)
+			if(commandSender is FpcPlayerRole player)
 			{
 				if (commandArgs[0] == "item")
 				{

@@ -9,6 +9,6 @@ namespace Game.Events.Interfaces
 {
 	public interface IPlayerEvent : IEvent
 	{
-		Player player { get; }
+		FpcPlayerRole player { get; }
 	}
 }

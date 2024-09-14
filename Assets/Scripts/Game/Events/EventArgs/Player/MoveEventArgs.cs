@@ -4,8 +4,8 @@ namespace Game.Events.EventArgs.Player
 {
 	public class MoveEventArgs: IPlayerEvent
 	{
-		public Roles.Player player { get; }
-		public MoveEventArgs(Roles.Player player) 
+		public Roles.FpcPlayerRole player { get; }
+		public MoveEventArgs(Roles.FpcPlayerRole player) 
 		{
 			this.player = player;
 		}

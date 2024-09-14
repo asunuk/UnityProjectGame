@@ -1,12 +1,4 @@
-﻿using Game.Items;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using UnityEngine;
-
-namespace Game.Levels
+﻿namespace Game.Locations
 {
 	public class StartLevel : Level
 	{

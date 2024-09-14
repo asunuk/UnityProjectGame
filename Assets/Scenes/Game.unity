@@ -350,7 +350,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b3b807f816175a04f9785eff47471985, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 2019320733}
+  player: {fileID: 0}
   commandLine: {fileID: 308213888}
   console: {fileID: 99481130}
   scrollRect: {fileID: 99481132}
@@ -931,7 +931,7 @@ GameObject:
   m_Component:
   - component: {fileID: 432098067}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: Head
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1707,7 +1707,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 4.3675, y: 4.3675, z: 4.3675}
+  m_LocalScale: {x: 27.838882, y: 27.838882, z: 27.838882}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -2518,11 +2518,11 @@ GameObject:
   - component: {fileID: 2019320739}
   - component: {fileID: 2019320737}
   - component: {fileID: 2019320736}
-  - component: {fileID: 2019320734}
-  - component: {fileID: 2019320733}
   - component: {fileID: 2019320742}
-  - component: {fileID: 2019320743}
+  - component: {fileID: 2019320745}
   - component: {fileID: 2019320744}
+  - component: {fileID: 2019320743}
+  - component: {fileID: 2019320746}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -2530,44 +2530,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &2019320733
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2019320732}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 920b11b3efb28604ebb351be5f4f3636, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  currentLevel: {fileID: 1021484276}
-  camera: {fileID: 680070284}
-  cameraBody: {fileID: 432098066}
-  healthCount: 0
-  gameConsole: {fileID: 54357872}
---- !u!114 &2019320734
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2019320732}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d7b60c286ec0e314c8fd6403abe6cd00, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  size: 2
-  dropImpulse: 1.5
-  viewDistance: 3
-  itemNameText: {fileID: 278170769}
-  _inventorySlots: []
-  forwardSlotKey: 50
-  backSlotKey: 49
-  takeItemKey: 101
-  dropItemKey: 113
 --- !u!143 &2019320736
 CharacterController:
   m_ObjectHideFlags: 0
@@ -2717,10 +2679,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 2019320732}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 987a682f136087f49973624958578e39, type: 3}
+  m_Script: {fileID: 11500000, guid: 6728d3e958daf6345a5b31191d0995f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  interactionKey: 101
+  _Body: {fileID: 2019320732}
+  _Inventory: {fileID: 0}
+  _Interaction: {fileID: 0}
+  _FirstPersonController: {fileID: 0}
 --- !u!114 &2019320744
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2733,9 +2698,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a06b4f71a45d474aa8fa5f1bca19921, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _Camera: {fileID: 0}
-  _Head: {fileID: 0}
-  sneakOnHold: 0
+  freezy: 0
+  _Camera: {fileID: 680070284}
+  _Head: {fileID: 432098066}
+  sneakOnHold: 1
   forward: 119
   back: 115
   right: 100
@@ -2743,15 +2709,48 @@ MonoBehaviour:
   runningKey: 304
   jumpingKey: 32
   sneakingKey: 308
-  _CameraSenitivityX: 0
-  _CameraSenitivityY: 0
-  walkingSpeed: 3.5
-  runningSpeed: 5.5
-  backRunningSpeed: 4.5
-  sneakingSpeed: 1.5
-  jumpForce: 4
-  _xLimit: 95
-  freezy: 0
+  _CameraSensitivityX: 3
+  _CameraSensitivityY: 3
+  _WalkingSpeed: 3.5
+  _RunningSpeed: 5.5
+  _SneakingSpeed: 1.5
+  _JumpForce: 4
+  _CameraLimitX: 95
+--- !u!114 &2019320745
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2019320732}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7b60c286ec0e314c8fd6403abe6cd00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  size: 2
+  dropItemImpulse: 1.5
+  maxTakeItemDistance: 10
+  _inventorySlots: []
+  forwardSlotKey: 50
+  backSlotKey: 49
+  takeItemKey: 101
+  dropItemKey: 113
+  useItemKey: 102
+--- !u!114 &2019320746
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2019320732}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 987a682f136087f49973624958578e39, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  iteractableDistance: 10
+  interactionKey: 101
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

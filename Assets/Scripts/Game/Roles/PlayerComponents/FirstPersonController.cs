@@ -12,10 +12,10 @@ namespace Game.Roles.PlayerComponents
 	[RequireComponent(typeof(Rigidbody), typeof(CharacterController))]
 	public class FirstPersonController : MonoBehaviour, IFirstPersonController
 	{
-		protected Player Player => GetComponent<Player>();
+		protected FpcPlayerRole Player => GetComponent<FpcPlayerRole>();
 		protected CharacterController CharacterController => GetComponent<CharacterController>();
 		protected Rigidbody Rigidbody => GetComponent<Rigidbody>();
-		protected float gravity => Player.Level.gravity;
+		protected float gravity => Player.Location.gravity;
 
 
 		[Header("Основные параметры FPC")]
@@ -80,7 +80,7 @@ namespace Game.Roles.PlayerComponents
 		public float WalkingSpeed { get => _WalkingSpeed; set => _WalkingSpeed = value; }
 		public float RunningSpeed { get => _RunningSpeed; set => _RunningSpeed = value; }
 		public float CurrentSpeed => moveDirection.magnitude;
-		public float CurrentStaticSpeed => isRunning && isSneaking ? _WalkingSpeed : isRunning ? _RunningSpeed : isSneaking ? _SneakingSpeed : _WalkingSpeed;
+		public float CurrentStaticSpeed => isRunning && isSneaking ? WalkingSpeed : isRunning ? RunningSpeed : isSneaking ? SneakingSpeed : WalkingSpeed;
 		public float JumpForce { get => _JumpForce; set => _JumpForce = value; }
 
 		protected Vector3 _moveDirection = Vector3.zero;
@@ -89,12 +89,6 @@ namespace Game.Roles.PlayerComponents
 		private float lastYSpeed;
 		private float rotationX;
 		private bool sneakingOffHold;
-
-		protected virtual void Init()
-		{
-			//Замораживает любое перемещение и поворот у компонента RigidBody. Нужно для нормальной работы FPC.
-			GetComponent<Rigidbody>().constraints = RigidbodyConstraints.FreezePosition | RigidbodyConstraints.FreezeRotation;
-		}
 
 		protected void Start()
 		{
@@ -117,7 +111,7 @@ namespace Game.Roles.PlayerComponents
 			if (Input.GetKeyDown(sneakingKey)) sneakingOffHold = !sneakingOffHold;
 
 
-			if (isJumping) { Events.Handlers.Player.OnJumping(new JumpingEventArgs(Player)); }
+			if (isJumping) Events.Handlers.Player.OnJumping(new JumpingEventArgs(Player));
 			if (isMoving) Events.Handlers.Player.OnMove(new MoveEventArgs(Player)); 
 
 			if (!freezy)
@@ -130,10 +124,10 @@ namespace Game.Roles.PlayerComponents
 
 		protected void CameraMoveLogic()
 		{
-			rotationX += -Input.GetAxis("Mouse Y") * _CameraSensitivityX;
+			rotationX += -Input.GetAxis("Mouse Y") * _CameraSensitivityY;
 			rotationX = Mathf.Clamp(rotationX, -_CameraLimitX, _CameraLimitX);
 			_Camera.transform.localRotation = Quaternion.Euler(rotationX, 0, 0);
-			Player.Body.transform.rotation *= Quaternion.Euler(0, Input.GetAxis("Mouse X") * _CameraSensitivityY, 0);
+			Player.Body.transform.rotation *= Quaternion.Euler(0, Input.GetAxis("Mouse X") * _CameraSensitivityX, 0);
 		}
 
 		protected void CameraShakeLogic()
@@ -159,8 +153,8 @@ namespace Game.Roles.PlayerComponents
 			float _lastDirection = _moveDirection.y;
 			lastPosition = Player.gameObject.transform.position;
 
-			Vector3 f = GetComponent<Player>().gameObject.transform.TransformDirection(Vector3.forward) * lastYSpeed;
-			Vector3 r = GetComponent<Player>().gameObject.transform.TransformDirection(Vector3.right) * lastYSpeed;
+			Vector3 f = GetComponent<FpcPlayerRole>().gameObject.transform.TransformDirection(Vector3.forward) * lastYSpeed;
+			Vector3 r = GetComponent<FpcPlayerRole>().gameObject.transform.TransformDirection(Vector3.right) * lastYSpeed;
 
 			Vector3 axis = GetAxis(forward, back, left, right);
 			Vector3 _cd = !CharacterController.isGrounded ? moveDirection : (axis.x * r) + (axis.z * f);
@@ -169,7 +163,7 @@ namespace Game.Roles.PlayerComponents
 			_moveDirection.y = (isJumping && CharacterController.isGrounded) && !freezy ? _JumpForce : _lastDirection;
 			if (!CharacterController.isGrounded)
 			{
-				_moveDirection.y -= Player.Level.gravity * Time.fixedDeltaTime;
+				_moveDirection.y -= Player.Location.gravity * Time.fixedDeltaTime;
 			}
 
 			CharacterController.Move(moveDirection * Time.fixedDeltaTime);

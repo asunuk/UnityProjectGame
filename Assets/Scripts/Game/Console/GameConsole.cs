@@ -13,7 +13,9 @@ namespace Game.Console
 {
 	public class GameConsole : MonoBehaviour
 	{
-		public Player player;
+		public static GameConsole Instance;
+
+		public FpcPlayerRole player;
 		public InputField commandLine;
 		public GameObject console;
 		public ScrollRect scrollRect;

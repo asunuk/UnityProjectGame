@@ -8,6 +8,7 @@ namespace Game.Roles.PlayerComponents
 {
 	public class Interaction : MonoBehaviour
 	{
+		public float iteractableDistance = 10.0f;
 		public List<InteractiveGameObject> interactiveGameObjects { get; protected set; } = new();
 		public List<string> interactiveTags { get; protected set; } = new();
 		public KeyCode interactionKey = KeyCode.E;

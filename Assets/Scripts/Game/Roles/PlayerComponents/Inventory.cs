@@ -10,13 +10,14 @@ namespace Game.Roles.PlayerComponents
 {
 	public class Inventory : MonoBehaviour
 	{
+		public static Inventory Instance;
+
 		[Header("Основные параметры Inventory")]
 
 		//Publics
 		public int size = 2;
-		public float dropImpulse = 1.5f;
-		public float viewDistance = 10.0f;
-		public Text itemNameText;
+		public float dropItemImpulse = 1.5f;
+		public float maxTakeItemDistance = 10.0f;
 
 		//Getters
 		public Ray ray => _ray;
@@ -24,7 +25,7 @@ namespace Game.Roles.PlayerComponents
 		public BaseItem[] inventorySlots => _inventorySlots ;
 
 		//Privates
-		private Player Player;
+		private FpcPlayerRole Player;
 		private FirstPersonController FPC;
 		private Ray _ray;
 		private int _index = 0;
@@ -45,8 +46,8 @@ namespace Game.Roles.PlayerComponents
 		{
 			_inventorySlots = new BaseItem[size];
 
-			Player = GetComponent<Player>();
-			FPC = Player.GetComponent<FirstPersonController>();
+			Player = GetComponent<FpcPlayerRole>();
+			FPC = Player.FPC;
 		}
 
 		public void Update()
@@ -65,7 +66,7 @@ namespace Game.Roles.PlayerComponents
 
 			InteractionWithItems();
 
-			UseItemsLogic(getItemInHand().itemType);
+			//UseItemsLogic(getItemInHand().itemType);
 
 			Debug.Log("Текущий слот: " + getItemInHand());
 			Debug.Log("Текущий индекс: " + _index);
@@ -118,7 +119,7 @@ namespace Game.Roles.PlayerComponents
 				getItemInHand().gameObject.GetComponent<Collider>().enabled = true;
 				getItemInHand().gameObject.GetComponent<Rigidbody>().useGravity = true;
 				getItemInHand().gameObject.transform.position = Player.FPC.Camera.transform.position + ray.direction.normalized;
-				getItemInHand().gameObject.GetComponent<Rigidbody>().AddForce(ray.direction * dropImpulse, ForceMode.Impulse);
+				getItemInHand().gameObject.GetComponent<Rigidbody>().AddForce(ray.direction * dropItemImpulse, ForceMode.Impulse);
 				inventorySlots[index] = null;
 			}
 		}
@@ -150,7 +151,7 @@ namespace Game.Roles.PlayerComponents
 			if (Physics.Raycast(ray, out _hit))
 			{
 				item = _hit.collider.gameObject.GetComponent<BaseItem>();
-				if(item is not null) item = Vector3.Distance(Player.FPC.Camera.transform.position, item.gameObject.transform.position) <= viewDistance ? item : null;
+				if(item is not null) item = Vector3.Distance(Player.FPC.Camera.transform.position, item.gameObject.transform.position) <= maxTakeItemDistance ? item : null;
 			}
 			Debug.Log(item);
 			return item;

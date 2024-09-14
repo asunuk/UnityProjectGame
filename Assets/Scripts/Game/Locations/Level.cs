@@ -1,5 +1,5 @@
 ﻿using Game.Items;
-using Game.Levels.Interfaces;
+using Game.Locations.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using UnityEngine;
 
-namespace Game.Levels
+namespace Game.Locations
 {
 	[Serializable]
 	public struct Chunk
@@ -23,7 +23,7 @@ namespace Game.Levels
 		}
 	}
 	[RequireComponent(typeof(ItemManager))]
-	public abstract class Level : MonoBehaviour, ISpace
+	public abstract class Level : MonoBehaviour, ILocation
 	{
 		public ItemManager itemManager => GetComponent<ItemManager>();
 		public abstract LevelType levelType { get; }

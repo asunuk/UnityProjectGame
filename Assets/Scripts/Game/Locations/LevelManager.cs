@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Game.Levels
+namespace Game.Locations
 {
 	[Serializable]
 	public enum LevelType

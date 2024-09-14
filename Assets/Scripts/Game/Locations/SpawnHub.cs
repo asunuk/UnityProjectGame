@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Game.Levels.Interfaces
+namespace Game.Locations
 {
-	public interface ISpace
+	public class SpawnHub : Location
 	{
-		public float gravity { get; }
+		public override float gravity => 9.81f;
 	}
 }

@@ -1,5 +1,5 @@
 using Game.Events.Interfaces;
-using _Player = Game.Roles.Player;
+using _Player = Game.Roles.FpcPlayerRole;
 
 namespace Game.Events.EventArgs.Player
 {
