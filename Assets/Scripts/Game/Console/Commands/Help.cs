@@ -1,5 +1,5 @@
-﻿using Game.Items.Types;
-using Game.Roles;
+﻿using API.Items.Types;
+using API.Roles;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 using UnityEngine;
 using Util;
 
-namespace Game.Console.Commands
+namespace API.Console.Commands
 {
 	public class Help : Command
 	{
@@ -29,7 +29,7 @@ namespace Game.Console.Commands
 			{
 				foreach (Command command in commandManager.getCommandsList())
 				{
-					player.console.Send($"{ColorText.Orange}{command.name}{ColorText.End} - {command.description}");
+					player.Console.Send($"{ColorText.Orange}{command.name}{ColorText.End} - {command.description}");
 				}
             }
 			return true;

@@ -1,12 +1,5 @@
-﻿using Game.Items.Types;
-using Game.Roles;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using UnityEngine;
-using Util;
+﻿using API.Console.Commands;
+using API.Roles;
 
 namespace Game.Console.Commands
 {
@@ -20,7 +13,7 @@ namespace Game.Console.Commands
 		{
 			if(commandSender is FpcPlayerRole player)
 			{
-				player.console.consoleText.text = null;
+				player.Console.consoleText.text = null;
             }
 			return true;
 		}
