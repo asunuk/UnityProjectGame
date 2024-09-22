@@ -9,6 +9,6 @@ namespace API.Events.Interfaces
 {
 	public interface IPlayerEvent : IEvent
 	{
-		FpcPlayerRole player { get; }
+		PlayerMovableRole player { get; }
 	}
 }

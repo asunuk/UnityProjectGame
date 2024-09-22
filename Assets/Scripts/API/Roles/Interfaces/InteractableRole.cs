@@ -1,15 +1,11 @@
-﻿using API.Roles.PlayerComponents;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using API.Roles.Components;
+using API.Roles.PlayerComponents;
 
 namespace API.Roles.Interfaces
 {
 	public interface InteractableRole
 	{
-		public Inventory Inventory { get; }
+		public NetworkInventory Inventory { get; }
 		public Interaction Interaction { get; }
 	}
 }

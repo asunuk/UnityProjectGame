@@ -16,7 +16,7 @@ namespace API.Console
 	{
 		public static GameConsole Instance;
 
-		public FpcPlayerRole player;
+		public PlayerMovableRole player;
 		public InputField commandLine;
 		public GameObject console;
 		public ScrollRect scrollRect;
@@ -42,7 +42,7 @@ namespace API.Console
 			{
 				isCMDVisible = true;
 				console.SetActive(isCMDVisible);
-				player.GetComponent<FirstPersonController>().freezy = isCMDVisible;
+				player.GetComponent<NetworkFPC>().SetFreezy(isCMDVisible);
 				UnityEngine.Cursor.lockState = CursorLockMode.None;
 				UnityEngine.Cursor.visible = isCMDVisible;
 				Init();
@@ -54,8 +54,6 @@ namespace API.Console
 				UnityEngine.Cursor.lockState = CursorLockMode.Locked;
 				UnityEngine.Cursor.visible = isCMDVisible;
 			}
-
-			Debug.Log(consoleText.text.Split('\n').Length);
 		}
 		 
 		protected void Init()

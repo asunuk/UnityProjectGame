@@ -4,8 +4,8 @@ namespace API.Events.EventArgs.Player
 {
 	public class SpawnEventArgs: IPlayerEvent
 	{
-		public Roles.FpcPlayerRole player { get; }
-		public SpawnEventArgs(Roles.FpcPlayerRole player) 
+		public Roles.PlayerMovableRole player { get; }
+		public SpawnEventArgs(Roles.PlayerMovableRole player) 
 		{
 			this.player = player;
 		}

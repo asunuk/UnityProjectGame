@@ -1,5 +1,5 @@
 using API.Events.Interfaces;
-using _Player = API.Roles.FpcPlayerRole;
+using _Player = API.Roles.PlayerMovableRole;
 
 namespace API.Events.EventArgs.Player
 {
@@ -11,6 +11,6 @@ namespace API.Events.EventArgs.Player
 			this.player = player;
 		}
 
-		public object dieadReason => player.FPC.isJumping;
+		public object dieadReason => player.Movement.isJumping;
 	}
 }

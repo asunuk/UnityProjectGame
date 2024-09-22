@@ -1,6 +1,6 @@
 using API.Entityes;
 using API.Events.Interfaces;
-using _Player = API.Roles.FpcPlayerRole;
+using _Player = API.Roles.PlayerMovableRole;
 
 namespace API.Events.EventArgs.Player
 {
@@ -13,6 +13,6 @@ namespace API.Events.EventArgs.Player
 		}
 
 		public Entity killer { get; set; }
-		public object dieadReason => player.FPC.isJumping;
+		public object dieadReason => player.Movement.isJumping;
 	}
 }

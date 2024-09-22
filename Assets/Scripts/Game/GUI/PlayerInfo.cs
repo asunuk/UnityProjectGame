@@ -2,15 +2,15 @@
 using API.Roles;
 using API.Roles.Interfaces;
 
-namespace Game.GUI.Types
+namespace Game.EGUI.Types
 {
 	public class PlayerInfo : TextLabel
 	{
-		public FpcPlayerRole FPC;
+		public PlayerMovableRole FPC;
 		protected void Update()
 		{
 			Value = 
-				$"PlayerSpeed: {FPC.FPC.CurrentSpeed}\nPlayerHealth:{FPC.Health}";
+				$"PlayerSpeed: {FPC.Movement.CurrentSpeed}\nPlayerHealth:{FPC.Health}";
 		}
 	}
 }

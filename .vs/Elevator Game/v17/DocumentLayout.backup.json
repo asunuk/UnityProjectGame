@@ -3,24 +3,100 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\unity\\elevator game\\assets\\scripts\\networksctest\\networktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\networksctest\\networktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Library\\PackageCache\\com.unity.burst@1.8.17\\Runtime\\BurstCompiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.burst@1.8.17\\Runtime\\BurstCompiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\unity\\elevator game\\assets\\scripts\\networksctest\\networkfpcrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\networksctest\\networkfpcrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\unity\\elevator game\\assets\\scripts\\game\\mods\\testmod\\testmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\mods\\testmod\\testmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\unity\\elevator game\\assets\\scripts\\networksctest\\networkplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\networksctest\\networkplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\assets\\scripts\\api\\utils\\egmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\api\\utils\\egmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\unity\\elevator game\\assets\\scripts\\api\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\api\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\assets\\scripts\\api\\utils\\egloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\api\\utils\\egloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\assets\\scripts\\api\\utils\\egmodmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\api\\utils\\egmodmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\assets\\scripts\\api\\roles\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\api\\roles\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\assets\\scripts\\api\\roles\\managers\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\api\\roles\\managers\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\assets\\scripts\\api\\roles\\managers\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\api\\roles\\managers\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B227AC-8D5E-7D40-EC41-E0AD2040F59A}|Mirror.csproj|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\assets\\mirror\\core\\threading\\threadlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B227AC-8D5E-7D40-EC41-E0AD2040F59A}|Mirror.csproj|solutionrelative:assets\\mirror\\core\\threading\\threadlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\assets\\scripts\\api\\user\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\api\\user\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\assets\\scripts\\game\\startlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\startlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\Network\\NetworkFpcRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\API\\Roles\\Network\\NetworkFpcRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\GUI\\ITextLabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Game\\GUI\\ITextLabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\GUI\\TextLabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Game\\GUI\\TextLabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\GUI\\Types\\PlayerInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Game\\GUI\\Types\\PlayerInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\Roles\\PlayerComponents\\FirstPersonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Game\\Roles\\PlayerComponents\\FirstPersonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B227AC-8D5E-7D40-EC41-E0AD2040F59A}|Mirror.csproj|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\assets\\mirror\\core\\networkstartposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B227AC-8D5E-7D40-EC41-E0AD2040F59A}|Mirror.csproj|solutionrelative:assets\\mirror\\core\\networkstartposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B227AC-8D5E-7D40-EC41-E0AD2040F59A}|Mirror.csproj|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\assets\\mirror\\core\\networkidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B227AC-8D5E-7D40-EC41-E0AD2040F59A}|Mirror.csproj|solutionrelative:assets\\mirror\\core\\networkidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B227AC-8D5E-7D40-EC41-E0AD2040F59A}|Mirror.csproj|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\assets\\mirror\\core\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B227AC-8D5E-7D40-EC41-E0AD2040F59A}|Mirror.csproj|solutionrelative:assets\\mirror\\core\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\NetworkSCTest\\NetworkTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\NetworkSCTest\\NetworkTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C00417-6D2F-0D90-2626-396F809469D1}|SimpleWebTransport.csproj|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\assets\\mirror\\transports\\simpleweb\\simpleweb\\simplewebtransport.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{87C00417-6D2F-0D90-2626-396F809469D1}|SimpleWebTransport.csproj|solutionrelative:assets\\mirror\\transports\\simpleweb\\simpleweb\\simplewebtransport.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD66BFCC-FB1E-5C29-BA1D-C10BD90A73E3}|Mirror.Editor.csproj|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\assets\\mirror\\editor\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD66BFCC-FB1E-5C29-BA1D-C10BD90A73E3}|Mirror.Editor.csproj|solutionrelative:assets\\mirror\\editor\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\assets\\scripts\\api\\user\\structs\\playerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\api\\user\\structs\\playerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\assets\\scripts\\api\\network\\egnetworkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\api\\network\\egnetworkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\assets\\scripts\\mainmenu\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,26 +105,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\assets\\scripts\\game\\roles\\everyman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\roles\\everyman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\assets\\scripts\\api\\roles\\fpcrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\api\\roles\\fpcrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\assets\\scripts\\api\\roles\\fpcplayerrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\api\\roles\\fpcplayerrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9B227AC-8D5E-7D40-EC41-E0AD2040F59A}|Mirror.csproj|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\assets\\mirror\\core\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9B227AC-8D5E-7D40-EC41-E0AD2040F59A}|Mirror.csproj|solutionrelative:assets\\mirror\\core\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9B227AC-8D5E-7D40-EC41-E0AD2040F59A}|Mirror.csproj|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\assets\\mirror\\core\\networkidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9B227AC-8D5E-7D40-EC41-E0AD2040F59A}|Mirror.csproj|solutionrelative:assets\\mirror\\core\\networkidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9B227AC-8D5E-7D40-EC41-E0AD2040F59A}|Mirror.csproj|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\assets\\mirror\\core\\networkstartposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9B227AC-8D5E-7D40-EC41-E0AD2040F59A}|Mirror.csproj|solutionrelative:assets\\mirror\\core\\networkstartposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\assets\\scripts\\game\\spawnpoints\\simplespawnpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,14 +117,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\assets\\scripts\\api\\locations\\interfaces\\ispawnpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\api\\locations\\interfaces\\ispawnpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\assets\\scripts\\api\\roles\\managers\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\api\\roles\\managers\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\assets\\scripts\\game\\startlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\startlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\assets\\scripts\\game\\gui\\playerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -123,24 +171,48 @@
       "RelativeMoniker": "D:0:0:{DE74EA95-E765-E196-86D7-A8338C79947D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\api\\locations\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\Roles\\PlayerComponents\\FirstPersonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Game\\Roles\\PlayerComponents\\FirstPersonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Items\\BaseItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\API\\Items\\BaseItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\GUI\\Types\\PlayerInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Game\\GUI\\Types\\PlayerInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\PlayerComponents\\FirstPersonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\API\\Roles\\PlayerComponents\\FirstPersonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\GUI\\TextLabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Game\\GUI\\TextLabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\PlayerComponents\\Interaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\API\\Roles\\PlayerComponents\\Interaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\GUI\\ITextLabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Game\\GUI\\ITextLabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\PlayerComponents\\Inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\API\\Roles\\PlayerComponents\\Inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\assets\\scripts\\api\\roles\\network\\networkfpcrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\api\\roles\\network\\networkfpcrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\FpcRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\API\\Roles\\FpcRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\FpcPlayerRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\API\\Roles\\FpcPlayerRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\Managers\\SpawnManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\API\\Roles\\Managers\\SpawnManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\NetworkSCTest\\NetworkPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\NetworkSCTest\\NetworkPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Network\\NetGameObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\API\\Network\\NetGameObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\NetworkSCTest\\NetworkFPC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\NetworkSCTest\\NetworkFPC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\NetworkSCTest\\NetworkFpcRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\NetworkSCTest\\NetworkFpcRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -159,70 +231,248 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "NetworkTest.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\NetworkSCTest\\NetworkTest.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\NetworkSCTest\\NetworkTest.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\NetworkSCTest\\NetworkTest.cs",
-              "RelativeToolTip": "Assets\\Scripts\\NetworkSCTest\\NetworkTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Title": "BurstCompiler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Library\\PackageCache\\com.unity.burst@1.8.17\\Runtime\\BurstCompiler.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.burst@1.8.17\\Runtime\\BurstCompiler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Library\\PackageCache\\com.unity.burst@1.8.17\\Runtime\\BurstCompiler.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.burst@1.8.17\\Runtime\\BurstCompiler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T16:09:24.891Z",
+              "WhenOpened": "2024-09-22T15:51:14.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "NetworkFpcRole.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\NetworkSCTest\\NetworkFpcRole.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\NetworkSCTest\\NetworkFpcRole.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\NetworkSCTest\\NetworkFpcRole.cs",
-              "RelativeToolTip": "Assets\\Scripts\\NetworkSCTest\\NetworkFpcRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Title": "TestMod.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\Mods\\TestMod\\TestMod.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Mods\\TestMod\\TestMod.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\Mods\\TestMod\\TestMod.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Mods\\TestMod\\TestMod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T16:04:31.601Z",
+              "WhenOpened": "2024-09-22T07:47:00.461Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "EGMod.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Utils\\EGMod.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Utils\\EGMod.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Utils\\EGMod.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API\\Utils\\EGMod.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T07:44:33.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EGModManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Utils\\EGModManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Utils\\EGModManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Utils\\EGModManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API\\Utils\\EGModManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T07:41:51.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BaseItem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Items\\BaseItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Items\\BaseItem.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Items\\BaseItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API\\Items\\BaseItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T07:38:44.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FirstPersonController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\PlayerComponents\\FirstPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Roles\\PlayerComponents\\FirstPersonController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\PlayerComponents\\FirstPersonController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API\\Roles\\PlayerComponents\\FirstPersonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T07:38:05.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\Managers\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Roles\\Managers\\InventoryManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\Managers\\InventoryManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API\\Roles\\Managers\\InventoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T07:38:01.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HealthManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\Managers\\HealthManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Roles\\Managers\\HealthManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\Managers\\HealthManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API\\Roles\\Managers\\HealthManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T07:37:59.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EGLoader.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Utils\\EGLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Utils\\EGLoader.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Utils\\EGLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API\\Utils\\EGLoader.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwCcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:59:35.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Interaction.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\PlayerComponents\\Interaction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Roles\\PlayerComponents\\Interaction.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\PlayerComponents\\Interaction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API\\Roles\\PlayerComponents\\Interaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:09:48.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\PlayerComponents\\Inventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Roles\\PlayerComponents\\Inventory.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\PlayerComponents\\Inventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API\\Roles\\PlayerComponents\\Inventory.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAawAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:21:31.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FpcRole.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\FpcRole.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Roles\\FpcRole.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\FpcRole.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API\\Roles\\FpcRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:14:25.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FpcPlayerRole.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\FpcPlayerRole.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Roles\\FpcPlayerRole.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\FpcPlayerRole.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API\\Roles\\FpcPlayerRole.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:57:50.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\Role.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Roles\\Role.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\Role.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API\\Roles\\Role.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:24:20.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SpawnManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\Managers\\SpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Roles\\Managers\\SpawnManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\Managers\\SpawnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API\\Roles\\Managers\\SpawnManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:22:29.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NetworkManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Mirror\\Core\\NetworkManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Mirror\\Core\\NetworkManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Mirror\\Core\\NetworkManager.cs",
+              "RelativeToolTip": "Assets\\Mirror\\Core\\NetworkManager.cs",
+              "ViewState": "AgIAAGMCAAAAAAAAAAAAwPoCAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:17:31.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
               "Title": "NetworkPlayer.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\NetworkSCTest\\NetworkPlayer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\NetworkSCTest\\NetworkPlayer.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\NetworkSCTest\\NetworkPlayer.cs",
               "RelativeToolTip": "Assets\\Scripts\\NetworkSCTest\\NetworkPlayer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T16:02:31.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T16:02:31.229Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Player.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Player.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Player.cs",
-              "RelativeToolTip": "Assets\\Scripts\\API\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T16:29:39.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainMenuController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\MainMenu\\MainMenuController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu\\MainMenuController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\MainMenu\\MainMenuController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MainMenu\\MainMenuController.cs",
+              "DocumentIndex": 20,
+              "Title": "SimpleWebTransport.asmdef",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Mirror\\Transports\\SimpleWeb\\SimpleWeb\\SimpleWebTransport.asmdef",
+              "RelativeDocumentMoniker": "Assets\\Mirror\\Transports\\SimpleWeb\\SimpleWeb\\SimpleWebTransport.asmdef",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Mirror\\Transports\\SimpleWeb\\SimpleWeb\\SimpleWebTransport.asmdef",
+              "RelativeToolTip": "Assets\\Mirror\\Transports\\SimpleWeb\\SimpleWeb\\SimpleWebTransport.asmdef",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T15:58:00.629Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001874|",
+              "WhenOpened": "2024-09-19T13:21:16.375Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 21,
+              "Title": "Welcome.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Mirror\\Editor\\Welcome.cs",
+              "RelativeDocumentMoniker": "Assets\\Mirror\\Editor\\Welcome.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Mirror\\Editor\\Welcome.cs",
+              "RelativeToolTip": "Assets\\Mirror\\Editor\\Welcome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:47:52.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ThreadLog.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Mirror\\Core\\Threading\\ThreadLog.cs",
+              "RelativeDocumentMoniker": "Assets\\Mirror\\Core\\Threading\\ThreadLog.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Mirror\\Core\\Threading\\ThreadLog.cs",
+              "RelativeToolTip": "Assets\\Mirror\\Core\\Threading\\ThreadLog.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAWwCUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:09:47.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "NetworkFpcRole.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\Network\\NetworkFpcRole.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Roles\\Network\\NetworkFpcRole.cs",
@@ -235,198 +485,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "NetworkIdentity.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Mirror\\Core\\NetworkIdentity.cs",
-              "RelativeDocumentMoniker": "Assets\\Mirror\\Core\\NetworkIdentity.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Mirror\\Core\\NetworkIdentity.cs",
-              "RelativeToolTip": "Assets\\Mirror\\Core\\NetworkIdentity.cs",
-              "ViewState": "AgIAADEBAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T15:24:19.101Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "NetworkStartPosition.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Mirror\\Core\\NetworkStartPosition.cs",
-              "RelativeDocumentMoniker": "Assets\\Mirror\\Core\\NetworkStartPosition.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Mirror\\Core\\NetworkStartPosition.cs",
-              "RelativeToolTip": "Assets\\Mirror\\Core\\NetworkStartPosition.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T15:20:02.934Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "NetworkManager.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Mirror\\Core\\NetworkManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Mirror\\Core\\NetworkManager.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Mirror\\Core\\NetworkManager.cs",
-              "RelativeToolTip": "Assets\\Mirror\\Core\\NetworkManager.cs",
-              "ViewState": "AgIAAGMCAAAAAAAAAAAAwPoCAABnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T15:17:31.985Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\Role.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Roles\\Role.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\Role.cs",
-              "RelativeToolTip": "Assets\\Scripts\\API\\Roles\\Role.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T16:24:20.828Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ICommandSender.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Console\\ICommandSender.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Console\\ICommandSender.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Console\\ICommandSender.cs",
-              "RelativeToolTip": "Assets\\Scripts\\API\\Console\\ICommandSender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T16:15:03.979Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FpcRole.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\FpcRole.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Roles\\FpcRole.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\FpcRole.cs",
-              "RelativeToolTip": "Assets\\Scripts\\API\\Roles\\FpcRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T16:14:25.225Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "GameConsole.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Console\\GameConsole.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Console\\GameConsole.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Console\\GameConsole.cs",
-              "RelativeToolTip": "Assets\\Scripts\\API\\Console\\GameConsole.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAIA4wEsAAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T16:05:48.384Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FpcPlayerRole.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\FpcPlayerRole.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Roles\\FpcPlayerRole.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\FpcPlayerRole.cs",
-              "RelativeToolTip": "Assets\\Scripts\\API\\Roles\\FpcPlayerRole.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBIAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T15:57:50.535Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Everyman.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\Roles\\Everyman.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Roles\\Everyman.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\Roles\\Everyman.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Game\\Roles\\Everyman.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T16:02:19.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "SpawnManager.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\Managers\\SpawnManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Roles\\Managers\\SpawnManager.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Roles\\Managers\\SpawnManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\API\\Roles\\Managers\\SpawnManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T16:22:29.878Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SpawnPoint.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Locations\\SpawnPoint.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Locations\\SpawnPoint.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Locations\\SpawnPoint.cs",
-              "RelativeToolTip": "Assets\\Scripts\\API\\Locations\\SpawnPoint.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T16:41:17.646Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SimpleSpawnPoint.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\SpawnPoints\\SimpleSpawnPoint.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\SpawnPoints\\SimpleSpawnPoint.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\SpawnPoints\\SimpleSpawnPoint.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Game\\SpawnPoints\\SimpleSpawnPoint.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T16:48:10.595Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "CommandManager.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Console\\Managers\\CommandManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Console\\Managers\\CommandManager.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Console\\Managers\\CommandManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\API\\Console\\Managers\\CommandManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T16:05:26.636Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Command.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Console\\Command.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Console\\Command.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Console\\Command.cs",
-              "RelativeToolTip": "Assets\\Scripts\\API\\Console\\Command.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T16:04:19.26Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Can.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\Items\\Can.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Items\\Can.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\Items\\Can.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Game\\Items\\Can.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T16:02:38.182Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ISpawnPoint.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Locations\\Interfaces\\ISpawnPoint.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Locations\\Interfaces\\ISpawnPoint.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Locations\\Interfaces\\ISpawnPoint.cs",
-              "RelativeToolTip": "Assets\\Scripts\\API\\Locations\\Interfaces\\ISpawnPoint.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T16:34:32.083Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "StartLevel.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\StartLevel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\StartLevel.cs",
@@ -438,126 +496,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "PlayerInfo.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\GUI\\PlayerInfo.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\GUI\\PlayerInfo.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\GUI\\PlayerInfo.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Game\\GUI\\PlayerInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\User\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\User\\Player.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\User\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API\\User\\Player.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAjwBsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T16:18:34.937Z"
+              "WhenOpened": "2024-09-17T16:29:39.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Help.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\Console\\Commands\\Help.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Console\\Commands\\Help.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\Console\\Commands\\Help.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Game\\Console\\Commands\\Help.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "DocumentIndex": 23,
+              "Title": "EGNetworkManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Network\\EGNetworkManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Network\\EGNetworkManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Network\\EGNetworkManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API\\Network\\EGNetworkManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T16:17:41.488Z"
+              "WhenOpened": "2024-09-21T10:32:28.51Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "SpawnHub.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Locations\\SpawnHub.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Locations\\SpawnHub.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Locations\\SpawnHub.cs",
-              "RelativeToolTip": "Assets\\Scripts\\API\\Locations\\SpawnHub.cs",
+              "DocumentIndex": 50,
+              "Title": "NetGameObject.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Network\\NetGameObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Network\\NetGameObject.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Network\\NetGameObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API\\Network\\NetGameObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T10:37:02.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "NetworkFPC.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\NetworkSCTest\\NetworkFPC.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NetworkSCTest\\NetworkFPC.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\NetworkSCTest\\NetworkFPC.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NetworkSCTest\\NetworkFPC.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T16:21:57.141Z"
+              "WhenOpened": "2024-09-21T10:38:16.435Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ItemBaseType.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Items\\Types\\ItemBaseType.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Items\\Types\\ItemBaseType.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Items\\Types\\ItemBaseType.cs",
-              "RelativeToolTip": "Assets\\Scripts\\API\\Items\\Types\\ItemBaseType.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "ITextLabel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\GUI\\ITextLabel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\GUI\\ITextLabel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\GUI\\ITextLabel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\GUI\\ITextLabel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T16:00:55.909Z"
+              "WhenOpened": "2024-09-17T15:29:30.141Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Spawn.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\Console\\Commands\\Spawn.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Console\\Commands\\Spawn.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\Console\\Commands\\Spawn.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Game\\Console\\Commands\\Spawn.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T16:00:39.513Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Level.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Locations\\Level.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Locations\\Level.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Locations\\Level.cs",
-              "RelativeToolTip": "Assets\\Scripts\\API\\Locations\\Level.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T16:00:25.984Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ItemManager.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Items\\Managers\\ItemManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Items\\Managers\\ItemManager.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Items\\Managers\\ItemManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\API\\Items\\Managers\\ItemManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T16:00:08.036Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Clear.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\Console\\Commands\\Clear.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Console\\Commands\\Clear.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\Console\\Commands\\Clear.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Game\\Console\\Commands\\Clear.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T16:04:09.113Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "FirstPersonController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\Roles\\PlayerComponents\\FirstPersonController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Roles\\PlayerComponents\\FirstPersonController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\Roles\\PlayerComponents\\FirstPersonController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Game\\Roles\\PlayerComponents\\FirstPersonController.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T15:51:59.231Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "PlayerInfo.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\GUI\\Types\\PlayerInfo.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\GUI\\Types\\PlayerInfo.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\GUI\\Types\\PlayerInfo.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Game\\GUI\\Types\\PlayerInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T15:43:02.101Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 13,
               "Title": "TextLabel.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\GUI\\TextLabel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\GUI\\TextLabel.cs",
@@ -569,15 +568,301 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "ITextLabel.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\GUI\\ITextLabel.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\GUI\\ITextLabel.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\GUI\\ITextLabel.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Game\\GUI\\ITextLabel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "PlayerInfo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\GUI\\Types\\PlayerInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\GUI\\Types\\PlayerInfo.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\GUI\\Types\\PlayerInfo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\GUI\\Types\\PlayerInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T15:29:30.141Z"
+              "WhenOpened": "2024-09-17T15:43:02.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FirstPersonController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\Roles\\PlayerComponents\\FirstPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Roles\\PlayerComponents\\FirstPersonController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\Roles\\PlayerComponents\\FirstPersonController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Roles\\PlayerComponents\\FirstPersonController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:51:59.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NetworkStartPosition.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Mirror\\Core\\NetworkStartPosition.cs",
+              "RelativeDocumentMoniker": "Assets\\Mirror\\Core\\NetworkStartPosition.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Mirror\\Core\\NetworkStartPosition.cs",
+              "RelativeToolTip": "Assets\\Mirror\\Core\\NetworkStartPosition.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:20:02.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NetworkIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Mirror\\Core\\NetworkIdentity.cs",
+              "RelativeDocumentMoniker": "Assets\\Mirror\\Core\\NetworkIdentity.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Mirror\\Core\\NetworkIdentity.cs",
+              "RelativeToolTip": "Assets\\Mirror\\Core\\NetworkIdentity.cs",
+              "ViewState": "AgIAADEBAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:24:19.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PlayerInfo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\User\\Structs\\PlayerInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\User\\Structs\\PlayerInfo.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\User\\Structs\\PlayerInfo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API\\User\\Structs\\PlayerInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T10:58:43.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NetworkTest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\NetworkSCTest\\NetworkTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NetworkSCTest\\NetworkTest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\NetworkSCTest\\NetworkTest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NetworkSCTest\\NetworkTest.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:09:24.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MainMenuController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\MainMenu\\MainMenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu\\MainMenuController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\MainMenu\\MainMenuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu\\MainMenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:58:00.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "NetworkFpcRole.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\NetworkSCTest\\NetworkFpcRole.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NetworkSCTest\\NetworkFpcRole.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\NetworkSCTest\\NetworkFpcRole.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NetworkSCTest\\NetworkFpcRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:04:31.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ICommandSender.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Console\\ICommandSender.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Console\\ICommandSender.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Console\\ICommandSender.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API\\Console\\ICommandSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:15:03.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GameConsole.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Console\\GameConsole.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Console\\GameConsole.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Console\\GameConsole.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API\\Console\\GameConsole.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAIA4wEsAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:05:48.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Everyman.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\Roles\\Everyman.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Roles\\Everyman.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\Roles\\Everyman.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Roles\\Everyman.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:02:19.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SpawnPoint.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Locations\\SpawnPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Locations\\SpawnPoint.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Locations\\SpawnPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API\\Locations\\SpawnPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:41:17.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SimpleSpawnPoint.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\SpawnPoints\\SimpleSpawnPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\SpawnPoints\\SimpleSpawnPoint.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\SpawnPoints\\SimpleSpawnPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\SpawnPoints\\SimpleSpawnPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:48:10.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CommandManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Console\\Managers\\CommandManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Console\\Managers\\CommandManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Console\\Managers\\CommandManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API\\Console\\Managers\\CommandManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:05:26.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Console\\Command.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Console\\Command.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Console\\Command.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API\\Console\\Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:04:19.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Can.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\Items\\Can.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Items\\Can.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\Items\\Can.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Items\\Can.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:02:38.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ISpawnPoint.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Locations\\Interfaces\\ISpawnPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Locations\\Interfaces\\ISpawnPoint.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Locations\\Interfaces\\ISpawnPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API\\Locations\\Interfaces\\ISpawnPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:34:32.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PlayerInfo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\GUI\\PlayerInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\GUI\\PlayerInfo.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\GUI\\PlayerInfo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\GUI\\PlayerInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:18:34.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Help.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\Console\\Commands\\Help.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Console\\Commands\\Help.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\Console\\Commands\\Help.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Console\\Commands\\Help.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:17:41.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SpawnHub.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Locations\\SpawnHub.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Locations\\SpawnHub.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Locations\\SpawnHub.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API\\Locations\\SpawnHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:21:57.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ItemBaseType.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Items\\Types\\ItemBaseType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Items\\Types\\ItemBaseType.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Items\\Types\\ItemBaseType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API\\Items\\Types\\ItemBaseType.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:00:55.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Spawn.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\Console\\Commands\\Spawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Console\\Commands\\Spawn.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\Console\\Commands\\Spawn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Console\\Commands\\Spawn.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:00:39.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Level.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Locations\\Level.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Locations\\Level.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Locations\\Level.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API\\Locations\\Level.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:00:25.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ItemManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Items\\Managers\\ItemManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\Items\\Managers\\ItemManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\API\\Items\\Managers\\ItemManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API\\Items\\Managers\\ItemManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:00:08.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Clear.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\Console\\Commands\\Clear.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Console\\Commands\\Clear.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Unity\\Elevator Game\\Assets\\Scripts\\Game\\Console\\Commands\\Clear.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Console\\Commands\\Clear.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:04:09.113Z"
             }
           ]
         }

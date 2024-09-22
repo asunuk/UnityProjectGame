@@ -1,4 +1,5 @@
 ﻿using API.Roles.Interfaces;
+using Mirror;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +9,8 @@ using UnityEngine;
 
 namespace API.Roles
 {
-	public abstract class Role : MonoBehaviour, IRole
+	[RequireComponent(typeof(NetworkIdentity))]
+	public abstract class Role : NetworkBehaviour, IRole
 	{
 		public abstract string RoleName { get; }
 		public abstract string RoleDescription { get; }
@@ -31,7 +33,12 @@ namespace API.Roles
 
 		}
 
-		public virtual void Init()
+		public virtual void LocalInit()
+		{
+
+		}
+
+		public virtual void OnlineInit()
 		{
 
 		}

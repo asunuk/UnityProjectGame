@@ -14,14 +14,14 @@ namespace Game.Items.Types
 {
 	public class Can : ToolType
 	{
-		public override BaseItem item { get => _item; set => _item = value; }
+		public override Item item { get => _item; set => _item = value; }
 		public override string Name => "Can";
 
 		public override string Description => "Is drinking can";
 
 		public override VisualizeItem visual => null!;
 
-		private BaseItem _item;
+		private Item _item;
 
 		public override void Use()
 		{

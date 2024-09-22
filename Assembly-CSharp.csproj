@@ -62,34 +62,34 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\API\Locations\SpawnPoint.cs" />
     <Compile Include="Assets\Scripts\API\Console\GameConsole.cs" />
-    <Compile Include="Assets\Scripts\API\Network\NetworkFpcRole.cs" />
-    <Compile Include="Assets\Scripts\API\Roles\Interfaces\IFpcRole.cs" />
+    <Compile Include="Assets\Scripts\API\Utils\EGModManager.cs" />
+    <Compile Include="Assets\Scripts\API\Roles\Spectator.cs" />
     <Compile Include="Assets\Scripts\API\Roles\Interfaces\ICameraController.cs" />
     <Compile Include="Assets\Scripts\API\Roles\Managers\InventoryManager.cs" />
     <Compile Include="Assets\Scripts\Util\DataManager.cs" />
     <Compile Include="Assets\Scripts\API\Roles\Interfaces\IMovement.cs" />
     <Compile Include="Assets\Scripts\API\Events\Interfaces\IPlayerEvent.cs" />
     <Compile Include="Assets\Scripts\Game\Items\Can.cs" />
-    <Compile Include="Assets\Scripts\API\Player.cs" />
     <Compile Include="Assets\Scripts\API\Locations\Level.cs" />
     <Compile Include="Assets\Scripts\API\Roles\Exceptions\ValueOutOfHealthRangeException.cs" />
     <Compile Include="Assets\Scripts\API\Roles\Interfaces\IRole.cs" />
-    <Compile Include="Assets\Scripts\API\Roles\PlayerComponents\Interaction.cs" />
     <Compile Include="Assets\Scripts\API\Events\Interfaces\IEvent.cs" />
     <Compile Include="Assets\Scripts\API\Roles\Interfaces\IFirstPersonController.cs" />
     <Compile Include="Assets\Scripts\API\Items\Managers\ItemManager.cs" />
     <Compile Include="Assets\Scripts\API\Locations\Interfaces\ISpawnPoint.cs" />
+    <Compile Include="Assets\Scripts\API\GUI\PlayerInfoDisplay.cs" />
     <Compile Include="Assets\Scripts\Game\Roles\Everyman.cs" />
-    <Compile Include="Assets\Scripts\API\Roles\FpcPlayerRole.cs" />
     <Compile Include="Assets\Scripts\Game\Console\Commands\Help.cs" />
     <Compile Include="Assets\Scripts\API\Locations\Location.cs" />
     <Compile Include="Assets\Scripts\API\Roles\Interfaces\IJumping.cs" />
     <Compile Include="Assets\Scripts\API\Events\EventArgs\Player\DiedEventArgs.cs" />
     <Compile Include="Assets\Scripts\API\Entityes\Entity.cs" />
+    <Compile Include="Assets\Scripts\API\User\Player.cs" />
     <Compile Include="Assets\Scripts\API\Roles\Managers\HealthManager.cs" />
     <Compile Include="Assets\Scripts\API\Events\EventArgs\Player\SpawnEventArgs.cs" />
-    <Compile Include="Assets\Scripts\API\Items\BaseItem.cs" />
+    <Compile Include="Assets\Scripts\API\Utils\EGMod.cs" />
     <Compile Include="Assets\Scripts\Util\Stamina.cs" />
+    <Compile Include="Assets\Scripts\Game\Mods\TestMod\TestMod.cs" />
     <Compile Include="Assets\Scripts\API\Roles\Interfaces\IHealth.cs" />
     <Compile Include="Assets\Scripts\API\Events\EventArgs\Player\JumpingEventArgs.cs" />
     <Compile Include="Assets\Scripts\API\Locations\LevelManager.cs" />
@@ -100,47 +100,76 @@
     <Compile Include="Assets\Scripts\API\Events\EventArgs\Player\MoveEventArgs.cs" />
     <Compile Include="Assets\Scripts\API\Console\Managers\DefaultConsoleManager.cs" />
     <Compile Include="Assets\Scripts\API\Entityes\EntityManager.cs" />
-    <Compile Include="Assets\Scripts\NetworkSCTest\NetworkFPC.cs" />
-    <Compile Include="Assets\Scripts\API\Roles\Managers\SpawnManager.cs" />
-    <Compile Include="Assets\Scripts\API\Roles\PlayerComponents\Inventory.cs" />
+    <Compile Include="Assets\Scripts\API\Roles\Components\FPC.cs" />
     <Compile Include="Assets\Scripts\API\Console\Command.cs" />
     <Compile Include="Assets\Scripts\API\Console\Managers\ConsoleManager.cs" />
     <Compile Include="Assets\Scripts\API\Locations\Interfaces\ILocation.cs" />
+    <Compile Include="Assets\Scripts\API\Network\EGameObject.cs" />
     <Compile Include="Assets\Scripts\API\Entityes\Types\EntityType.cs" />
     <Compile Include="Assets\Scripts\API\GUI\ITextLabel.cs" />
     <Compile Include="Assets\Scripts\MainMenu\MainMenuController.cs" />
-    <Compile Include="Assets\Scripts\API\Roles\PlayerComponents\FirstPersonController.cs" />
     <Compile Include="Assets\Scripts\API\Items\Types\ToolType.cs" />
     <Compile Include="Assets\Scripts\API\GUI\TextLabel.cs" />
-    <Compile Include="Assets\Scripts\API\Roles\FpcRole.cs" />
+    <Compile Include="Assets\Scripts\API\Roles\Interfaces\IMovableRole.cs" />
     <Compile Include="Assets\Scripts\API\Events\Handlers\Player.cs" />
     <Compile Include="Assets\Scripts\Game\Console\Commands\Spawn.cs" />
+    <Compile Include="Assets\Scripts\API\Items\Item.cs" />
     <Compile Include="Assets\Scripts\API\Locations\SpawnHub.cs" />
     <Compile Include="Assets\Scripts\API\Exceptions\ValueOutOfRangeException.cs" />
+    <Compile Include="Assets\Scripts\API\Roles\Components\Interaction.cs" />
+    <Compile Include="Assets\Scripts\API\Roles\Components\Inventory.cs" />
+    <Compile Include="Assets\Scripts\API\Roles\Components\NetworkFPC.cs" />
     <Compile Include="Assets\Scripts\Game\Console\Commands\Clear.cs" />
+    <Compile Include="Assets\Scripts\API\Roles\Components\Spectate.cs" />
     <Compile Include="Assets\Scripts\Game\StartLevel.cs" />
     <Compile Include="Assets\Scripts\API\Items\Interfaces\VisualizeItem.cs" />
     <Compile Include="Assets\Scripts\API\Events\EventArgs\Player\DiedOfEntityEventArgs.cs" />
     <Compile Include="Assets\Scripts\API\Roles\Role.cs" />
     <Compile Include="Assets\Scripts\Util\ColorText.cs" />
     <Compile Include="Assets\Scripts\Game\SpawnPoints\SimpleSpawnPoint.cs" />
-    <Compile Include="Assets\Scripts\NetworkSCTest\NetworkFpcRole.cs" />
-    <Compile Include="Assets\Scripts\NetworkSCTest\NetworkPlayer.cs" />
+    <Compile Include="Assets\Scripts\API\Roles\Components\NetworkInventory.cs" />
+    <Compile Include="Assets\Scripts\API\Network\EGNetworkManager.cs" />
+    <Compile Include="Assets\Scripts\API\Roles\PlayerMovableRole.cs" />
+    <Compile Include="Assets\Scripts\API\Roles\MovableRole.cs" />
     <Compile Include="Assets\Scripts\API\Items\Types\ItemBaseType.cs" />
     <Compile Include="Assets\Scripts\API\Events\Featchures\Event.cs" />
+    <Compile Include="Assets\Scripts\API\Utils\EGLoader.cs" />
     <Compile Include="Assets\Scripts\Game\GUI\PlayerInfo.cs" />
+    <Compile Include="Assets\Scripts\API\User\Structs\PlayerInfo.cs" />
     <Compile Include="Assets\Scripts\API\Console\Managers\CommandManager.cs" />
+    <Compile Include="Assets\Scripts\API\Roles\Managers\RoleManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.dll" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.Mdb.dll" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
     <None Include="Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.Pdb.dll" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
     <None Include="Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.Rocks.dll" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\Mirror\Plugins\BouncyCastle\BouncyCastle.Cryptography.dll" />
     <None Include="Assets\Mirror\Version.txt" />
     <None Include="Assets\Mirror\Readme.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+    <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
     <None Include="Assets\Mirror\Notice.txt" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\Mirror\Plugins\Mono.Cecil\License.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -500,7 +529,7 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-      <HintPath>Library\PackageCache\com.unity.visualscripting@1.9.2\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+      <HintPath>Library\PackageCache\com.unity.visualscripting@1.9.4\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Newtonsoft.Json">

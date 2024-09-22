@@ -2,6 +2,7 @@
 using API.Locations;
 using API.Locations.Interfaces;
 using API.Roles;
+using API.Roles.Components;
 using API.Roles.Exceptions;
 using API.Roles.Interfaces;
 using API.Roles.Managers;
@@ -12,29 +13,30 @@ using UnityEngine;
 
 namespace Game.Roles
 {
-	[RequireComponent(
-		typeof(Inventory), 
-		typeof(Interaction), 
-		typeof(Rigidbody))
-		]
-	[RequireComponent
-		(typeof(NetworkRigidbodyReliable))
-		]
 
-	public class Everyman : FpcPlayerRole
+	[RequireComponent(
+		typeof(Inventory),
+		typeof(Interaction),
+		typeof(Rigidbody))
+	]
+
+	public class Everyman : PlayerMovableRole
 	{
 		[Header("Основные компоненты Everyman")]
 		[SerializeField]
 		protected GameObject _Body;
 
 		[SerializeField]
-		protected Inventory _Inventory;
+		protected GameObject _Head;
 
 		[SerializeField]
-		protected Interaction _Interaction;
+		protected NetworkInventory _inventory;
 
 		[SerializeField]
-		protected FirstPersonController _FirstPersonController;
+		protected Interaction _interaction;
+
+		[SerializeField]
+		protected NetworkFPC _netFPC;
 
 		[SerializeField]
 		protected SpawnPoint _SpawnPoint;
@@ -42,25 +44,25 @@ namespace Game.Roles
 		[SerializeField]
 		protected int _MaxHealth;
 
-		protected int _Health;
+		protected int _health;
 
-		protected HealthManager _HealthManager;
+		protected HealthManager _healthManager;
+
+		public override GameObject Head => _Head;
 
 		public override GameObject Body => _Body is null ? gameObject : _Body;
 
-		public override Inventory Inventory => _Inventory;
+		public override NetworkInventory Inventory => _inventory;
 
-		public override Interaction Interaction => _Interaction;
-
-		public override IFirstPersonController FPC => _FirstPersonController;
+		public override Interaction Interaction => _interaction;
 
 		public override ISpawnPoint SpawnPoint => _SpawnPoint;
 
 		public override int Health { 
-			get => _Health; 
+			get => _health; 
 			set 
 			{
-				_Health = value < MinHealth ? MinHealth : value > MaxHealth ? MaxHealth : value;
+				_health = value < MinHealth ? MinHealth : value > MaxHealth ? MaxHealth : value;
 			}
 		}
 
@@ -68,7 +70,7 @@ namespace Game.Roles
 
 		public override int MinHealth { get; } = 0;
 
-		public override HealthManager HealthManager => _HealthManager;
+		public override HealthManager HealthManager => _healthManager;
 
 		public override GameConsole Console => gameObject.GetComponent<GameConsole>();
 
@@ -78,19 +80,29 @@ namespace Game.Roles
 
 		public override string RoleDescription => "Ваша задача - выбраться из данного измерения.";
 
-		public override void Init()
+		public override IMovement Movement => _netFPC;
+
+		public override void LocalInit()
 		{
-			_Inventory = GetComponent<Inventory>();
-			_Interaction = GetComponent<Interaction>();
-			_FirstPersonController = GetComponent<FirstPersonController>();
-			_HealthManager = new HealthManager(this);
-			_Health = _MaxHealth;
+			_inventory = gameObject.AddComponent<Inventory>();
+			_interaction = GetComponent<Interaction>();
+			_netFPC = gameObject.AddComponent<FPC>();
+			_healthManager = new HealthManager(this);
+			_health = _MaxHealth;
+
+
 
 			_Body.GetComponent<Rigidbody>().constraints = RigidbodyConstraints.FreezeAll;
 			_Body.GetComponent<Rigidbody>().mass = 70.0f;
 
 		}
 
-		public void SetMAxHealth(int value) => _MaxHealth = value;
+		public override void OnlineInit()
+		{
+			_inventory = gameObject.AddComponent<NetworkInventory>();
+
+		}
+
+		public void SetMaxHealth(int value) => _MaxHealth = value;
 	}
 }
